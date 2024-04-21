@@ -4,6 +4,9 @@
 [submodule "CMSIS_5"]
 	path = CMSIS_5
 	url = https://github.com/ARM-software/CMSIS_5.git
-[submodule "CMSIS_excerpt"]
-	path = CMSIS_excerpt
-	url = https://github.com/shovdmi/CMSIS_excerpt.git
+[submodule "CMSIS_5_excerpt"]
+	path = CMSIS_5_excerpt
+	url = https://github.com/shovdmi/CMSIS_5_excerpt.git
+[submodule "CMSIS_6_excerpt"]
+	path = CMSIS_6_excerpt
+	url = https://github.com/shovdmi/CMSIS_6_excerpt.git
